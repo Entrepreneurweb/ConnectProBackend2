@@ -1,0 +1,17 @@
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\bin\Debug\net8.0\Marketplace.deps.json
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\bin\Debug\net8.0\Marketplace.runtimeconfig.json
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\bin\Debug\net8.0\Marketplace.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\bin\Debug\net8.0\Marketplace.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\Marketplace.csproj.AssemblyReference.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\Marketplace.AssemblyInfoInputs.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\Marketplace.AssemblyInfo.cs
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\Marketplace.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\refint\Marketplace.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\Marketplace.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\Marketplace.genruntimeconfig.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\ref\Marketplace.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\bin\Debug\net8.0\SharedKernel.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\bin\Debug\net8.0\SharedKernel.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Marketplace\obj\Debug\net8.0\MarketPl.448A65D8.Up2Date

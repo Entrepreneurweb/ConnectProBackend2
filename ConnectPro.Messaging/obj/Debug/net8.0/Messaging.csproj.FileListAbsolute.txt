@@ -1,0 +1,17 @@
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\bin\Debug\net8.0\Messaging.deps.json
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\bin\Debug\net8.0\Messaging.runtimeconfig.json
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\bin\Debug\net8.0\Messaging.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\bin\Debug\net8.0\Messaging.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.csproj.AssemblyReference.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.AssemblyInfoInputs.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.AssemblyInfo.cs
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\refint\Messaging.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.genruntimeconfig.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\ref\Messaging.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\bin\Debug\net8.0\SharedKernel.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\bin\Debug\net8.0\SharedKernel.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Messaging\obj\Debug\net8.0\Messaging.csproj.Up2Date

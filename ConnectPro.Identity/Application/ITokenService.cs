@@ -1,0 +1,15 @@
+﻿using Identity.Domain.Aggregates.User.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConnectPro.Identity.Application
+{
+    public interface ITokenService
+    {
+        string GenerateToken(User user);
+        string GeneratePartialToken(User user);
+    }
+}

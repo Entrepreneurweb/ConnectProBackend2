@@ -1,0 +1,17 @@
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\bin\Debug\net8.0\Social.deps.json
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\bin\Debug\net8.0\Social.runtimeconfig.json
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\bin\Debug\net8.0\Social.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\bin\Debug\net8.0\Social.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.csproj.AssemblyReference.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.AssemblyInfoInputs.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.AssemblyInfo.cs
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.csproj.CoreCompileInputs.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\refint\Social.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.genruntimeconfig.cache
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\ref\Social.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\bin\Debug\net8.0\SharedKernel.dll
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\bin\Debug\net8.0\SharedKernel.pdb
+C:\Users\EXAUCE\Desktop\ConnectProBackend\ConnectPro.Social\obj\Debug\net8.0\Social.csproj.Up2Date
